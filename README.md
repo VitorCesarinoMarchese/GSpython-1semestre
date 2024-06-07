@@ -22,6 +22,7 @@ Nossa motivação para abordar este problema surge da necessidade urgente de pro
 Na disciplina de Python, desenvolveremos programas especializados para analisar os dados coletados pelo sistema de monitoramento multissensorial. Utilizando técnicas avançadas de análise de dados e algoritmos de aprendizado de máquina, processaremos informações sobre luminosidade, velocidade das ondas e temperatura da água. Nosso objetivo é gerar previsões precisas das condições ambientais futuras e visualizar essas estimativas por meio de gráficos intuitivos.
 
 Essas visualizações ajudarão a identificar padrões e tendências, fornecendo uma base sólida para a tomada de decisões informadas. Com isso, cientistas e gestores ambientais poderão implementar estratégias de conservação mais eficazes, responder rapidamente a mudanças críticas e planejar ações a longo prazo com base em dados concretos e previsões confiáveis. Em última análise, nossa solução contribuirá para a preservação e sustentabilidade dos habitats marinhos, alinhando-se à nossa motivação de proteger esses ecossistemas essenciais para o equilíbrio do planeta.
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 DETALHAMENTO DO PROGRAMA :
   
