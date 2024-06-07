@@ -41,19 +41,19 @@ Scikit-learn (sklearn): Utilizamos a biblioteca sklearn para aplicar algoritmos 
 
 - Funcionamento do Programa:
 
-1- Importação de Bibliotecas:
+- IMPORTAÇÃO DE BIBLIOTECAS:
   
 Primeiramente, importamos as bibliotecas necessárias.
 
-2- Carregamento e Preparação dos Dados:
+- CARREGAMENTO E PREPARAÇÃO DOS DADOS :
 
 Os dados coletados pelo sistema de monitoramento são carregados e preparados para análise. Supondo que os dados estejam em arrays, organizamos as variáveis independentes (e.g., tempo) e dependentes (e.g., temperatura, luminosidade).
 
-3- Criação do Modelo de Regressão Linear:
+- CRIAÇÃO DO MODELO DE REGREÇÃO LINEAR :
 
 Utilizamos sklearn para criar e treinar o modelo de regressão linear com os dados disponíveis.
 
-4- Previsão e Visualização dos Dados:
+- PREVIÃO E VISUALIZAÇÃO DE DADOS :
 
 Com o modelo treinado, fazemos previsões e visualizamos os resultados usando matplotlib. Criamos dois gráficos: um para os dados originais e outro para as previsões futuras.
 
